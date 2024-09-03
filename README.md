@@ -1,2 +1,2 @@
 # Kasper---One-Page-Creative
-Template that is worked with Html and Css
+A fully responsive template crafted with HTML and CSS.
